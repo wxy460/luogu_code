@@ -1,0 +1,14 @@
+---
+toc: true
+toc-depth: 3
+number-sections: false
+chapters: true
+figureTitle: "图"
+figPrefix: "图"
+figLabels: roman
+tableTitle: "表"
+tblPrefix: "图"
+tblLabels: roman
+bibliography: test.bib
+reference-section-title: "参考文献"
+---
